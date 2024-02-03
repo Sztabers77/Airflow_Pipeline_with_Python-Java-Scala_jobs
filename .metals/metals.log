@@ -1,0 +1,79 @@
+2024.02.03 14:24:12 INFO  Started: Metals version 1.2.0 in folders '/home/bartek/Desktop/Projects/Sparking_flow' for client Visual Studio Code 1.86.0.
+2024.02.03 14:24:13 WARN  Build server is not auto-connectable.
+2024.02.03 14:24:13 WARN  no build tool detected in workspace '/home/bartek/Desktop/Projects/Sparking_flow'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2024.02.03 14:24:13 WARN  no build target for: /home/bartek/Desktop/Projects/Sparking_flow/jobs/scala/build.sbt
+2024.02.03 14:24:21 INFO  no build target found for /home/bartek/Desktop/Projects/Sparking_flow/jobs/scala/build.sbt. Using presentation compiler with project's scala-library version: 3.3.1
+2024.02.03 14:24:23 WARN  Could not find semantic tokens for: file:///home/bartek/Desktop/Projects/Sparking_flow/jobs/scala/build.sbt
+2024.02.03 14:24:23 INFO  time: code lens generation in 9.5s
+2024.02.03 14:24:23 WARN  Could not find semantic tokens for: file:///home/bartek/Desktop/Projects/Sparking_flow/jobs/scala/build.sbt
+2024.02.03 14:24:24 WARN  no build target for: /home/bartek/Desktop/Projects/Sparking_flow/jobs/scala/build.sbt
+2024.02.03 14:24:24 WARN  Could not find semantic tokens for: file:///home/bartek/Desktop/Projects/Sparking_flow/jobs/scala/build.sbt
+2024.02.03 14:24:43 WARN  no build target for: /home/bartek/Desktop/Projects/Sparking_flow/jobs/scala/wordcount.scala
+2024.02.03 14:24:43 WARN  Could not find semantic tokens for: file:///home/bartek/Desktop/Projects/Sparking_flow/jobs/scala/wordcount.scala
+2024.02.03 14:24:49 INFO  time: code lens generation in 1.05s
+2024.02.03 14:24:49 WARN  no build target for: /home/bartek/Desktop/Projects/Sparking_flow/jobs/scala/wordcount.scala
+Feb 03, 2024 2:28:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 109
+2024.02.03 14:29:08 WARN  no build target for: /home/bartek/Desktop/Projects/Sparking_flow/jobs/scala/wordcount.scala
+2024.02.03 14:35:19 WARN  no build target for: /home/bartek/Desktop/Projects/Sparking_flow/jobs/java/spark-job/src/main/java/com/sztabers/spark/App.java
+Feb 03, 2024 2:35:19 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/bartek/Desktop/Projects/Sparking_flow/.metals/.reports/metals-full/2024-02-03/r_compiler-error_14-35-19-493.md
+Feb 03, 2024 2:35:21 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/bartek/Desktop/Projects/Sparking_flow/.metals/.reports/metals-full/2024-02-03/r_compiler-error_14-35-21-307.md
+2024.02.03 14:35:28 WARN  no build target for: /home/bartek/Desktop/Projects/Sparking_flow/jobs/java/spark-job/src/main/java/com/sztabers/spark/WordCountJob.java
+Feb 03, 2024 2:35:29 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/bartek/Desktop/Projects/Sparking_flow/.metals/.reports/metals-full/2024-02-03/r_compiler-error_14-35-29-096.md
+Feb 03, 2024 2:35:30 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/bartek/Desktop/Projects/Sparking_flow/.metals/.reports/metals-full/2024-02-03/r_compiler-error_14-35-30-145.md
+Feb 03, 2024 2:35:30 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/bartek/Desktop/Projects/Sparking_flow/.metals/.reports/metals-full/2024-02-03/r_compiler-error_14-35-30-497.md
+Feb 03, 2024 2:35:31 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/bartek/Desktop/Projects/Sparking_flow/.metals/.reports/metals-full/2024-02-03/r_compiler-error_14-35-31-610.md
+Feb 03, 2024 2:35:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 200
+Feb 03, 2024 2:35:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 202
+Feb 03, 2024 2:35:41 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/bartek/Desktop/Projects/Sparking_flow/.metals/.reports/metals-full/2024-02-03/r_compiler-error_14-35-41-753.md
+Feb 03, 2024 2:35:45 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/bartek/Desktop/Projects/Sparking_flow/.metals/.reports/metals-full/2024-02-03/r_compiler-error_14-35-45-050.md
+2024.02.03 14:35:45 INFO  time: code lens generation in 1.11s
+Feb 03, 2024 2:35:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 218
+Feb 03, 2024 2:35:47 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/bartek/Desktop/Projects/Sparking_flow/.metals/.reports/metals-full/2024-02-03/r_compiler-error_14-35-47-258.md
+Feb 03, 2024 2:35:47 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/bartek/Desktop/Projects/Sparking_flow/.metals/.reports/metals-full/2024-02-03/r_compiler-error_14-35-47-763.md
+Feb 03, 2024 2:35:48 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/bartek/Desktop/Projects/Sparking_flow/.metals/.reports/metals-full/2024-02-03/r_compiler-error_14-35-48-753.md
+Feb 03, 2024 2:35:50 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/bartek/Desktop/Projects/Sparking_flow/.metals/.reports/metals-full/2024-02-03/r_compiler-error_14-35-50-748.md
+Feb 03, 2024 2:36:12 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/bartek/Desktop/Projects/Sparking_flow/.metals/.reports/metals-full/2024-02-03/r_compiler-error_14-36-12-971.md
+2024.02.03 14:36:13 WARN  no build target for: /home/bartek/Desktop/Projects/Sparking_flow/jobs/java/spark-job/src/main/java/com/sztabers/spark/WordCountJob.java
+Feb 03, 2024 2:36:13 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/bartek/Desktop/Projects/Sparking_flow/.metals/.reports/metals-full/2024-02-03/r_compiler-error_14-36-13-694.md
+Feb 03, 2024 2:36:14 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/bartek/Desktop/Projects/Sparking_flow/.metals/.reports/metals-full/2024-02-03/r_compiler-error_14-36-14-637.md
+Feb 03, 2024 2:36:16 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/bartek/Desktop/Projects/Sparking_flow/.metals/.reports/metals-full/2024-02-03/r_compiler-error_14-36-16-520.md
+Feb 03, 2024 2:36:18 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/bartek/Desktop/Projects/Sparking_flow/.metals/.reports/metals-full/2024-02-03/r_compiler-error_14-36-18-369.md
+Feb 03, 2024 2:36:18 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/bartek/Desktop/Projects/Sparking_flow/.metals/.reports/metals-full/2024-02-03/r_compiler-error_14-36-18-805.md
+2024.02.03 14:36:27 WARN  no build target for: /home/bartek/Desktop/Projects/Sparking_flow/jobs/java/spark-job/src/main/java/com/sztabers/spark/WordCountJob.java
+Feb 03, 2024 2:36:28 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/bartek/Desktop/Projects/Sparking_flow/.metals/.reports/metals-full/2024-02-03/r_compiler-error_14-36-28-700.md
+Feb 03, 2024 2:36:33 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Feb 03, 2024 2:36:38 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/bartek/Desktop/Projects/Sparking_flow/.metals/.reports/metals-full/2024-02-03/r_compiler-error_14-36-38-156.md
+2024.02.03 14:36:55 WARN  no build target for: /home/bartek/Desktop/Projects/Sparking_flow/jobs/java/spark-job/src/test/java/com/sztabers/spark/AppTest.java
+Feb 03, 2024 2:36:56 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/bartek/Desktop/Projects/Sparking_flow/.metals/.reports/metals-full/2024-02-03/r_compiler-error_14-36-56-339.md
+Feb 03, 2024 2:36:57 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/bartek/Desktop/Projects/Sparking_flow/.metals/.reports/metals-full/2024-02-03/r_compiler-error_14-36-57-291.md
+Feb 03, 2024 2:52:33 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/bartek/Desktop/Projects/Sparking_flow/.metals/.reports/metals-full/2024-02-03/r_compiler-error_14-52-33-301.md
+Feb 03, 2024 2:52:39 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/bartek/Desktop/Projects/Sparking_flow/.metals/.reports/metals-full/2024-02-03/r_compiler-error_14-52-39-655.md
